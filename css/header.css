@@ -1,0 +1,9 @@
+.header-new {
+    position: absolute;
+    z-index: 9999;
+    top: 0;
+    width: 100%;
+}
+.header-new .top-nav {
+    justify-content: center;
+}
